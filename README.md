@@ -9,7 +9,7 @@ Designed & developed by Dylan Wang.
 
 ### Take a look
 
-![Gif](/screenshots/look.gif)
+![Gif](/screenShots/look.gif)
 
 ## Getting Started
 
